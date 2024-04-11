@@ -1,6 +1,6 @@
 # Tax Calculator
 
-![Tax Calculator]("C:\Users\singh\OneDrive\Pictures\Screenshots\Screenshot 2024-04-11 155124.png")
+![Tax Calculator]("C:\Users\singh\OneDrive\Desktop\TaxCalculator\Screenshot 2024-04-11 155124.png")
 
 ## Description
 
