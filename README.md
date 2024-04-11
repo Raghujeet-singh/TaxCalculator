@@ -1,6 +1,6 @@
 # Tax Calculator
 
-![Tax Calculator]("screenshots\TaxCalculator.png")
+![TaxCalculator]("screenshots\TaxCalculator.png")
 
 ## Description
 
