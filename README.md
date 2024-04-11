@@ -51,4 +51,4 @@ To run the Tax Calculator project locally on your machine, follow these steps:
 
 ![Tax Calculator](screenshots/Screenshot%202024-04-11%20160254.png)  
 ![Tax Calculator](screenshots/Screenshot%202024-04-11%20160313.png)
-![Tax Calculator](screenshots/Screenshot%202024-04-11%20160320.png.png)
+![Tax Calculator](screenshots/Screenshot%202024-04-11%20160320.png)
