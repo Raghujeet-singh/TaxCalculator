@@ -1,4 +1,4 @@
-# Tax Calculator
+# TAX CALCULATOR
 
 ![Tax Calculator](screenshots/TaxCalculator.png)
 
